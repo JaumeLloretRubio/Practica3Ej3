@@ -1,3 +1,5 @@
+print('Marc Picó estuvo aquí.')
+
 x = int(input('Mete un número entero: '))
 
 y = x / 2
