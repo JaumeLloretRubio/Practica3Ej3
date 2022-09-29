@@ -1,3 +1,4 @@
+print('Marc Picó estuvo aquí.')
 print('Jaume LLoret estuvo aquí.')
 
 x = int(input('Mete un número entero: '))
